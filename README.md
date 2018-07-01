@@ -4,6 +4,8 @@ A simple url shortener for the people who like their coffee hot and url short
 
 check it out [here](https://bumpy-eye.glitch.me/)
 
+![url-shortener-snap](snap.png)
+
 ## Gettin' Started
 
 - clone this repo using ```git clone```
